@@ -1,0 +1,6 @@
+{
+  "name": "ChronoMed Healthcare Dashboard",
+  "description": "Smart medication reminders with audible alarms, notification alerts, circadian timing guidance, and a personalized health progress visualization dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
